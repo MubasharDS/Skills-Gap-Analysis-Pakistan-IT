@@ -23,7 +23,7 @@ This project analyzes the skill gaps in emerging IT fields by comparing higher e
 - `/datasets`: Cleaned datasets used in analysis  
 - `/notebooks`: Jupyter Notebook containing full analysis pipeline  
 - `/figures`: Visualizations generated during analysis  
-- `/report`: Research report written to discuss project it detail  
+- `/report`: Research report written to discuss project in detail  
 
 ## 🧠 Key Findings
 
