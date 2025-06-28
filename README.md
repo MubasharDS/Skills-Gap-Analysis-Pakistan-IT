@@ -13,8 +13,8 @@ This project analyzes the skill gaps in emerging IT fields by comparing higher e
 
 ## 🛠 Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Survey design tools (Google Forms or others)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
+- Survey design tools (Google Forms)
 - Jupyter Notebooks
 - Excel (for some data wrangling)
 
